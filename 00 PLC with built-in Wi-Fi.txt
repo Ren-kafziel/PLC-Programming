@@ -1,0 +1,35 @@
+
+
+PLC with built-in Wi-Fi, here are some solid options and strategies:
+________________________________________________________________________________________________________________________________________________________________
+1. Industrial Shields “WiFi PLC” (Arduino-based)
+A Spanish company offers PLCs with integrated Wi-Fi and Bluetooth alongside industrial I/O and communication ports. Specs include:
+	•	Wi-Fi 802.11 b/g/n (150 Mbps), Bluetooth 4.2
+	•	Ideal for remote monitoring, data logging, and IoT (supports MQTT, Modbus, etc.)
+	•	Acts as AP or client; supports robust industrial use and Linux/Android OS options industrialshields.com
+Great for professionals seeking open, flexible, and modern connectivity, though it's more hacker-friendly (Arduino/Linux) than conventional PLC platforms.
+________________________________________________________________________________________________________________________________________________________________
+2. SensiNext Wi-Fi PLC Series
+Another specialist offering programmable controllers with built-in Wi-Fi + GSM modules (GPRS/SMS):
+	•	Wi-Fi b/g/n support
+	•	TCP/UDP, client/AP/bridge/router modes
+	•	Android app for remote control via phone
+	•	Outdoor usage up to ~100 m (3 dBi antenna) sensinext.com
+These are compact micro-PLCs aimed at remote automation, ideal where cost and direct cloud/phone access are key.
+________________________________________________________________________________________________________________________________________________________________
+3. Arduino Opta WiFi PLC + Starter Kit
+Arduino’s Opta WiFi PLC (part of their industrial line):
+	•	Dual-core Cortex, 8 digital/analog inputs, 4 relays
+	•	Ethernet 10/100 + USB-C + Wi-Fi + BLE + RS-485
+	•	Compatible with IEC 61131-3 languages, Arduino IDE, and PLC educational kit Arduino Official Store
+Suitable for those wanting a fully-featured industrial controller with native Wi-Fi, supportive learning resources, and Arduino integration.
+________________________________________________________________________________________________________________________________________________________________
+4. Retrofit Solutions: Add-on Wi-Fi Bridges
+If you already have a traditional PLC and only need network access for programming or monitoring:
+	•	Industrial radio bridges (e.g., Prosoft, Phoenix Contact) offer Wi-Fi-to-Ethernet reliability Reddit+1
+	•	Mini travel routers/TP-Link Nano/Unifi client-end devices can be plugged into your PLC's Ethernet port to create a Wi-Fi hotspot or bridge — well-liked in industrial forums PLCtalk
+This method works with almost any PLC and is especially handy for temporary setups (e.g., maintenance, commissioning).
+
+
+
+

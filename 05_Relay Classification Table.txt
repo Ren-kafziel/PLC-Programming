@@ -1,0 +1,25 @@
+
+
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Relay Type**                        | **Coil Voltage** (AC / DC)                      	| **Pins**            	| **Max Contact Current** 	| **Common Applications**                 	|	
+| ------------------------------------- | --------------------------------------------------|-----------------------| --------------------------|-------------------------------------------|
+|										|													|					  	|							|											|
+| **General-Purpose ** 					| DC: 5V, 12V, 24V, 48V, 120V, 230V					| 5 (SPST), 8 (DPDT)  	| 2A – 20A                	| Lighting, HVAC, appliances              	|
+| Electromechanical Relay (EMR)			| AC: 24V, 48V, 120V, 230V							|						|							|											|											
+|										|													|					  	|							|											|												|					  	|							|											|										|
+| **Power Relay**						| DC: 12V, 24V	                                    | 8 (DPDT), 14 (QPDT) 	| 20A – 40A               	| Motor control, heating elements         	|
+|										|													|					  	|							|											|										| AC: 120V, 230V 									|
+| **Automotive Relay**                  | DC: 12V, 24V                                      | 4 or 5              	| 20A – 40A               	| Horns, headlights, starter motors       	|
+|										|													|					  	|							|											|
+| **Solid State Relay (SSR)**           | DC control: 3–32V		          					| 4                   	| 2A – 75A                	| Industrial automation, silent switching 	|
+|										| AC control: 90–280V								|					  	|							|											|
+|										|													|					  	|							|											|
+| **Reed Relay**                        | DC: 5V, 12V, 24V                                  | 4                   	| 0.5A – 2A               	| Signal switching, telecom equipment     	|
+|										|													|					  	|							|											|
+| **Latching Relay**                    | DC: 5V, 12V, 24V                                  | 5 or 8              	| 2A – 20A                	| Memory circuits, energy saving systems  	|
+|										|													|					  	|							|											|
+| **Time Delay Relay**                  | AC: 24V, 120V, 230V<br>DC: 12V, 24V               | 8 or 14             	| 5A – 10A                	| Sequential control, start/stop delays   	|
+|										|													|					  	|							|											|										|
+| **Overload Protection Relay**         | AC: 24V, 120V, 230V                               | Varies              	| Trips on setpoint       	| Motor overload protection               	|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
