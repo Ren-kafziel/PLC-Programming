@@ -1,0 +1,18 @@
+
+Ladder fundamentals
+
+l.  NO contact 
+	It is a software contact that represents the same state of the hardware related signal
+	(or it is open at the original state).
+	
+	It is a software contact that represents the same state Of the hardware related signal
+	(or it is open at the original state).
+	
+
+	
+	
+2) NC contact
+	It is a software contact that represents the inverse state of the hardware related signal
+	(or it is closed at the original state).
+	
+	 
