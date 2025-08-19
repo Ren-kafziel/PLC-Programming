@@ -1,4 +1,9 @@
 
+
+
+
+
+
 	(Constant)									(Output)
 ------------------------------------------------------------
 	PB Control			Ladder Program			Lamp1
